@@ -4,4 +4,3 @@ def meal_choice(veg1 , veg2, protein = "tofu")
 
 end
 
-puts meal_choice(veg)
